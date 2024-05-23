@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrRecon-Official
+- 👋 Hi, I’m @MrRecon
 - 👀 I’m interested in learning to code and about security vulnerabilities 
 - 🌱 I’m currently learning stuff and things about code and stuff
 - 💞️ I’m looking to collaborate on nothing atm
